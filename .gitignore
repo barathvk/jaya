@@ -1,0 +1,6 @@
+data
+bin
+scrape/bin
+scrape/include
+scrape/lib
+scrape/pip-selfcheck.json
